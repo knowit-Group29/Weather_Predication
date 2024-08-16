@@ -30,11 +30,6 @@ The `data` directory contains the datasets used for this project. The data is di
 
 For more details about the data and its sources, see the [data README](data/README.md).
 
-## Notebooks
-
-The `notebooks` directory contains Jupyter notebooks used for data exploration and visualization. The main notebook included is:
-
-- `data_exploration.ipynb`: A notebook for initial data exploration and visualization.
 
 ## Scripts
 
